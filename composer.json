@@ -1,0 +1,16 @@
+{
+  "name": "vendor/package",
+  "description": "Job listing application",
+  "authors": [
+    {
+      "name": "Agbolade Adeniyi",
+      "email": "devgbolade@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework/",
+      "App\\": "App/"
+    }
+  }
+}
